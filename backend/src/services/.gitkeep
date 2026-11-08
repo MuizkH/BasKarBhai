@@ -1,0 +1,3 @@
+# Services directory for external integrations and domain business logic
+# (Gnani STT/TTS, Supabase, LLM abstraction to be added here)
+
